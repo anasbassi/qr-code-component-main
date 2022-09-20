@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800&family=Outfit:wght@400;500;600;700;800&family=Roboto+Mono:wght@500;700&display=swap');
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Outfit', sans-serif;
+}
+
+.main-container {
+  width: 300px;
+  margin: auto;
+  background-color: white;
+  padding: 13px ;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+p {
+  font-weight: 400;
+  width: 90%;
+  margin: 0 auto 30px auto;
+}
+
+.qr-code {
+  width: 100%;
+  border-radius: 20px;
+}
+
+
